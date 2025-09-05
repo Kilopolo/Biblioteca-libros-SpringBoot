@@ -1,24 +1,27 @@
-# Compiled class file
+
+BibliotecaSpring/target/classes/META-INF/maven/com.capgemini.BibliotecaSpring/BibliotecaSpring/pom.properties
+BibliotecaSpring/target/classes/META-INF/maven/com.capgemini.BibliotecaSpring/BibliotecaSpring/pom.properties
+BibliotecaSpring/target/classes/META-INF/MANIFEST.MF
+BibliotecaSpring/target/classes/com/capgemini/bibliotecaSpring/model/Multa.class
+BibliotecaSpring/target/classes/com/capgemini/bibliotecaSpring/model/Libro.class
+BibliotecaSpring/target/classes/com/capgemini/bibliotecaSpring/model/Lector.class
+BibliotecaSpring/target/classes/com/capgemini/bibliotecaSpring/model/Copia.class
+BibliotecaSpring/target/classes/com/capgemini/bibliotecaSpring/model/BaseEntity.class
+BibliotecaSpring/target/classes/com/capgemini/bibliotecaSpring/model/Autor.class
+
+
+BibliotecaSpring/pom.xml
 *.class
-
-# Log file
-*.log
-
-# BlueJ files
-*.ctxt
-
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
-
-# Package Files #
+BibliotecaSpring/.factorypath
+BibliotecaSpring/.classpath
 *.jar
-*.war
-*.nar
-*.ear
-*.zip
-*.tar.gz
-*.rar
-
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
-replay_pid*
+BibliotecaSpring/.project
+*.prefs
+BibliotecaSpring/target/classes/static/img/Error Hibernate_ Objeto no guardado_files/*
+BibliotecaSpring/target/*
+BibliotecaSpring/target/*/*
+BibliotecaSpring/target/*/*/*
+BibliotecaSpring/target/classes/application.properties
+BibliotecaSpring/target/classes/application.properties
+BibliotecaSpring/src/main/resources/application.properties
+BibliotecaSpring/target/classes/application.properties
